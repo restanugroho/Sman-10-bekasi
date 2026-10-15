@@ -96,7 +96,7 @@ It demonstrates a full-stack web workflow using Laravel, Inertia.js, and React, 
 
 ## 📌 Project Note
 
-This repository represents the implementation and project status as they currently stand; it is not a completed school information system. School-related identity, images, and content should only be published or reused with appropriate permission and verification.
+This repository represents the implementation and project status as they currently stand; it is not a completed school information system.
 
 <p align="center">
   <i>Built with Laravel, Inertia.js, and React.</i>
